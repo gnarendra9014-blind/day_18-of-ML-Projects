@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local Data
+*.log
+*_generated.py
+*_generated.js
